@@ -1,0 +1,12 @@
+p {
+    color: red;
+}
+.c-first-paragraph{
+    color: blue;
+    font-family: 'Lato', sans-serif;
+}
+
+#c-strongest-rule{
+        color: green;
+    font-family: 'LATO', 'Courier New', Courier, monospace;
+}
